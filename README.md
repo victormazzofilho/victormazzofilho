@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @victormazzofilho
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Olá Mundo! :computer: :earth_americas:
 
-<!---
-victormazzofilho/victormazzofilho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### REPOSITÓRIO de VICTOR MAZZO FILHO
+
+- 👋 Olá! Sou @victormazzofilho! (:brazil: brasileiro - :balloon: 35 anos - :cityscape: São Paulo/SP)
+- :mortar_board: Tecnólogo em Redes de Computadores, Técnico em Processamento de Dados e Engenheiro Civil.
+- :book: Estudando Lógica de Programação, Git/GitHub, SCRUM, JavaScript, HTML, CSS, React, Java, Springboot.
+- :mag_right: Na busca por uma oportunidade de trabalho na área de programação.
+- 📫 Contato... Instagram: @vitao_br | |e-mail: victormazzofilho@outlook.com | whatsapp/cel: +55 11 95490-0828 | [LinkedIn](https://www.linkedin.com/in/victor-mazzo-filho-13703563/) 
